@@ -1,2 +1,1 @@
-# lowcode
-Low-code tool for building SPAs
+Visual app prototype for visual development.
